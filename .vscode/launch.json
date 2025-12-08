@@ -1,0 +1,9 @@
+{
+    "name": "Vite: npm run dev",
+    "type": "node",
+    "request": "launch",
+    "cwd": "/Users/deepak/Projects/Profile/my-portfolio",
+    "runtimeExecutable": "npm",
+    "runtimeArgs": ["run", "dev"],
+    "console": "integratedTerminal",
+}
